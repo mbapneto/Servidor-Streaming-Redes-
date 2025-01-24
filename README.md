@@ -22,5 +22,7 @@ Instruções :
 Autores : 
 
 Jose Augusto Ramos Belmont
+
 Mauricio Baptista Neto
+
 Rafael Fernandes Soares da Silva
